@@ -1,2 +1,2 @@
-# REST-API-
-a REST API with Node JS and Express | CRUD API 
+# Tetris-
+a Tetris game made using Python | Pygame
